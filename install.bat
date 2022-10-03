@@ -2,7 +2,7 @@
 set from=%cd%
 set to=%UserProfile%\scripts
 
-cd  %UserProfile%
+cd  %UserProfile%git
 md scripts
 
 echo Copy from %from%\spotdla.bat to %to%\spotdla.bat
