@@ -1,0 +1,1 @@
+python.exe "C:\Users\den\Documents\src\spotdla\spotdla.py" %1
