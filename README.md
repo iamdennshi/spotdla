@@ -7,7 +7,7 @@ A small script to download playlists or songs from spotify in a specific directo
 
 ### Usage:
 * `spotdla <folder> url` Download to the `<folder>`
-* `spotdla url` Download to the `like` folder
+* `spotdla url` Download to the `like` folder by default
 
 ### Requirements:
 * Python 3.10.0 or later
